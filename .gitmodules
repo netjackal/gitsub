@@ -4,3 +4,6 @@
 [submodule "testcode"]
 	path = testcode
 	url = git@github.com:netjackal/testcode.git
+[submodule "shorty"]
+	path = shorty
+	url = git@github.com:netjackal/shorty.git
