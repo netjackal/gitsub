@@ -1,0 +1,6 @@
+[submodule "s2b"]
+	path = s2b
+	url = git@github.com:netjackal/s2b.git
+[submodule "testcode"]
+	path = testcode
+	url = git@github.com:netjackal/testcode.git
